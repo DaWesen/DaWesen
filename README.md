@@ -11,24 +11,7 @@
 
 ---
 
-### ⚡ GitHub 动态
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DaWesen&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaWesen&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-profile-trophy.vercel.app/?username=DaWesen&theme=onedark&no-frame=true&row=1&column=7" alt="Trophy" />
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=DaWesen&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%"/>
-
----
 
 ### 📊 访客统计 & 更多
 
