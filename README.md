@@ -11,7 +11,11 @@
 
 ---
 
+### ⚡ GitHub 动态
 
+<img src="https://github-readme-stats-eight-ecru.vercel.app/api?username=DaWesen&show_icons=true&theme=city_lights&bg_color=0000&hide_border=true" alt="GitHub Stats" width="100%"/>
+
+---
 
 ### 📊 访客统计 & 更多
 
